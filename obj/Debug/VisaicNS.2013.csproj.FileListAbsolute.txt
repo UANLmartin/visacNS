@@ -1,0 +1,2 @@
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.5.1\VisaicNS\cs\obj\Debug\VisaicNS.exe
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.5.1\VisaicNS\cs\obj\Debug\VisaicNS.pdb
